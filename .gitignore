@@ -1,0 +1,12 @@
+# IDE
+.editorconfig
+.idea/
+.vscode/
+
+# MAC references
+.DS_Store
+
+# Local dev
+.env
+__pycache__/
+venv
